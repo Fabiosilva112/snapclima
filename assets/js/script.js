@@ -60,7 +60,7 @@ function displayWeather(data) {
 
     currentDate.textContent = formatdate(dt);
     currentName.textContent = name;
-    weatherIcon.src = `./assets/${icon}.svg`
+    weatherIcon.src = `./assets/img/${icon}.svg`
 
     weatherDescription.textContent = description;
     currentTemperature.textContent = `${Math.round(temp)}°C`;
