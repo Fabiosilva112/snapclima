@@ -1,6 +1,6 @@
 # Snapclima
 
-<img src="/assets/img/responsivo.svg" alt="">
+<img src="/assets/img/snap-clima (1).jpg" alt="">
 
 <h2>Sobre</h2>
 
